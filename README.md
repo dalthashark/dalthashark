@@ -72,5 +72,5 @@ En mi perfil encontrarás proyectos prácticos alineados a estas competencias:
 ---
 
 ## 📫 Conectemos
-* 💼 **LinkedIn:** (https://www.linkedin.com/in/sebastián-julio-mendoza-chavez-aa0477260/?isSelfProfile=true)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/sebastián-julio-mendoza-chavez-aa0477260/?isSelfProfile=true
 * 📧 **Correo Electrónico:** seba.m.ch.2000@gmail.com
