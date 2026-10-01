@@ -7,16 +7,14 @@ Actualmente busco activamente mi primera oportunidad como **Practicante Pre-Prof
 
 ---
 
-## 🛠️ Stack Tecnológico & Tecnologías Visuales
+## 🛠️ Stack Tecnológico & Habilidades
 
-<p align="left">
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="Java"/>
-  <img src="https://shields.io" alt="Kotlin"/>
-  <img src="https://shields.io" alt="MySQL"/>
-  <img src="https://shields.io" alt="Linux"/>
-  <img src="https://shields.io" alt="Git"/>
-</p>
+![Python](https://shields.io)
+![Java](https://shields.io)
+![Kotlin](https://shields.io)
+![MySQL](https://shields.io)
+![Linux](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
