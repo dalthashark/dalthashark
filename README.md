@@ -9,12 +9,13 @@ Actualmente busco activamente mi primera oportunidad como **Practicante Pre-Prof
 
 ## 🛠️ Stack Tecnológico & Habilidades
 
-![Python](https://shields.io)
-![Java](https://shields.io)
-![Kotlin](https://shields.io)
-![MySQL](https://shields.io)
-![Linux](https://shields.io)
-![Git](https://shields.io)
+* 🐍 **Python** (Machine Learning, Pandas, NumPy, Scikit-Learn)
+* ☕ **Java** (Programación Orientada a Objetos, Backend & Lógica Estructurada)
+* 📱 **Kotlin** (Desarrollo y Soporte de Aplicaciones Móviles)
+* 🐬 **MySQL / SQL** (Diseño y Modelamiento de Bases de Datos Relacionales)
+* 🐘 **Laragon** (Entorno de Desarrollo Local, Gestión de Servidores y Bases de Datos)
+* 🐧 **Linux Red Hat** (Administración de Sistemas y Servidores)
+* 🐙 **Git & GitHub** (Control de Versiones y Trabajo Colaborativo)
 
 ---
 
