@@ -73,5 +73,6 @@ En mi perfil encontrarás proyectos prácticos alineados a estas competencias:
 
 ## 📫 Conectemos
 * 💼 **LinkedIn:** https://www.linkedin.com/in/sebastián-julio-mendoza-chavez-aa0477260/?isSelfProfile=true
+* 📱 **Aplicación Móvil Personal (Base44):** https://app.base44.com/@sebastian-mc-12
 * 📸 **Portafolio Multimedia (Air.inc):** https://app.air.inc/b/sebastian-s-first-board-d85aeb3c-463f-4750-a7e1-9a660e82f51a
 * 📧 **Correo Electrónico:** seba.m.ch.2000@gmail.com
