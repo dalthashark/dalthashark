@@ -62,6 +62,14 @@ En mi perfil encontrarás proyectos prácticos alineados a estas competencias:
 </p>
 
 ---
+---
+
+## 🗣️ Idiomas & Comunicación Technical
+
+* 🇵🇪 **Español:** Nativo.
+* 🇬🇧 **Inglés (Básico - Técnico):** Formación orientada a la lectura de documentación técnica, comprensión de APIs, logs de errores y gestión de comandos en entornos de desarrollo (Alineado a los cursos de *Inglés Técnico* aprobados en SENATI).
+
+---
 
 ## 📫 Conectemos
 * 💼 **LinkedIn:** (https://www.linkedin.com/in/sebastián-julio-mendoza-chavez-aa0477260/?isSelfProfile=true)
